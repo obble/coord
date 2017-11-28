@@ -1,0 +1,6 @@
+## Interface: 11200
+## Author: modernist
+## Title: coord
+## Notes: stand-alone, simple, coordinates on the map
+
+coord.lua
